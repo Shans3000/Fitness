@@ -214,7 +214,7 @@ header ul.navbar li a:hover {
 }
 
 .form {
-   min-width: 50rem;
+   min-width: 40rem;
    padding: 2rem 2.5rem;
    background-color: #222;
    border-radius: 0.8rem;
